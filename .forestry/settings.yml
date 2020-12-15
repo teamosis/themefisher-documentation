@@ -12,7 +12,7 @@ sections:
   label: Docs
   create: all
   match: "**/*"
-  exclude: faq/*
+  exclude: faq.md,guide.md
   templates:
   - docs
 - type: directory
