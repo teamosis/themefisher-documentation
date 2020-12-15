@@ -1,0 +1,3 @@
+{{ with site.GetPage (printf "%s/%s" "contentblocks/" (index .Params 0)) }}
+  {{ .Content | markdownify }}
+{{ end }}
