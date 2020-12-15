@@ -7,17 +7,15 @@ sections:
 - type: document
   path: content/guide.md
   label: Guide
-  match: "**/*"
 - type: document
   path: content/faq.md
   label: FAQ
-  match: "**/*"
 - type: directory
   path: content
   label: Docs
   create: all
   match: "**/*"
-  exclude: faq.md,guide.md
+  exclude: search.md
   templates:
   - docs
 - type: document
