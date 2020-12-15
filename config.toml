@@ -1,5 +1,4 @@
 baseURL = "https://docs.themefisher.com/"
-disableLanguages = []
 languageCode = "en-us"
 languageName = "En"
 theme = "godocs-hugo"
