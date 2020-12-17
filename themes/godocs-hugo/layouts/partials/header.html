@@ -4,7 +4,7 @@
     <!-- navbar -->
     <nav class="navbar navbar-expand-lg navbar-light bg-transparent justify-content-between">
       <div class="logo-wrapper order-1">
-        <a class="site-logo" target="_blank" href="https://themefisher.com?ref=docs">
+        <a class="site-logo" href="{{ .Site.BaseURL | relLangURL }}">
           <img class="icon" src="{{ `images/icon.png` | absURL }}"><img class="site" src="{{ `images/logo.png` | absURL }}"></a>
         <span class="logo-devider"></span>
         <a class="docs-logo" href="{{ .Site.BaseURL | relLangURL }}"><img class="docs" src="{{ `images/docs.png` | absURL }}" alt="{{ site.Title }}"></a>
@@ -19,8 +19,7 @@
       <div class="d-flex order-2 order-lg-3">
         {{ if .Site.Params.navigation_button_bordered.enable }}
         {{ "<!-- get start btn -->" | safeHTML }}
-        <a href="{{ .Site.Params.navigation_button_bordered.link | absURL }}/?ref=docs"
-          class="btn btn-sm btn-outline-primary mr-3" target="_blank">{{ .Site.Params.navigation_button_bordered.label }}</a>
+        <a href="javascript:void(0);" onclick="Beacon('open')" class="btn btn-sm btn-outline-primary mr-3">{{ .Site.Params.navigation_button_bordered.label }}</a>
         {{ end }}
 
         {{ if .Site.Params.navigation_button_solid.enable }}
