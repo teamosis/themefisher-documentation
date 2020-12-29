@@ -21,7 +21,7 @@ Spelling fixes are most welcomed, and if you want to contribute longer sections 
 To view the documentation site locally, you need to clone this repository:
 
 ```bash
-git clone https://github.com/themefisher/themefisher-docs
+git clone https://github.com/themefisher/documentation
 ```
 
 ```bash
