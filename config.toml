@@ -84,7 +84,7 @@ link = "plugins/search/search-page.js"
 [[params.plugins.js]]
 link = "plugins/turbolinks/turbolinks.js"
 [params.preloader]
-enable = true
+enable = false
 preloader = ""
 [[params.social]]
 icon = "ti-facebook"
