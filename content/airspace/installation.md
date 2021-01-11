@@ -5,4 +5,4 @@ draft: false
 ---
 
 
-{{< contentblocks "installation" >}}
+{{< contentblock "installation" >}}

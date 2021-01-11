@@ -1,0 +1,7 @@
+baseURL = "https://docs.themefisher.com/"
+languageName = "En"
+title = "Documentation Website for Themefisher"
+enableGitInfo = true
+
+[outputs]
+home = ["HTML", "JSON"]

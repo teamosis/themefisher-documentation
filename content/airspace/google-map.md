@@ -4,4 +4,4 @@ weight: 9
 draft: false
 ---
 
-{{< contentblocks "gmap" >}}
+{{< contentblock "gmap" >}}

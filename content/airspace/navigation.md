@@ -4,4 +4,4 @@ weight: 5
 draft: false
 ---
 
-{{< contentblocks "navigation" >}}
+{{< contentblock "navigation" >}}

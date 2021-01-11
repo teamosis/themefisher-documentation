@@ -1,0 +1,9 @@
+[[footer]]
+name = "Github"
+url = "https://github.com/themefisher/"
+weight = 2
+
+[[footer]]
+name = "Contact"
+url = "https://themefisher.com/contact"
+weight = 1

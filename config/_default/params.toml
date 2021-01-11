@@ -1,0 +1,87 @@
+# Logo
+favicon = "images/favicon.png"
+logo_desktop = "images/logo.png"
+logo_desktop_width = "250px"
+logo_mobile = "images/logo-mobile.png"
+logo_mobile_width = "100px"
+
+# meta description
+author = "Themefisher"
+description = "Documentation for the installation and configuration of our themes."
+topic_title = "Theme Documentations"
+premium_badge = true
+edit_page_url = "https://github.com/themefisher/documentation/edit/master/content/"
+copyright = "Copyright &copy; 2020 [Themefisher](https://themefisher.com/) Docs build with [Godocs Theme](https://gethugothemes.com/products/godocs-hugo-documentation-theme/)"
+
+# custom script
+custom_script= "<script>!function(e,t,n){function a(){var e=t.getElementsByTagName('script')[0],n=t.createElement('script');n.type='text/javascript',n.async=!0,n.src='https://beacon-v2.helpscout.net',e.parentNode.insertBefore(n,e)}if(e.Beacon=n=function(t,n,a){e.Beacon.readyQueue.push({method:t,options:n,data:a})},n.readyQueue=[],'complete'===t.readyState)return a();e.attachEvent?e.attachEvent('onload',a):e.addEventListener('load',a,!1)}(window,document,window.Beacon||function(){}),window.Beacon('init','af98d4cf-d181-4eeb-80c2-279c713acaba');</script>"
+
+[banner]
+image = "images/banner.jpg"
+subtitle = "We are the largest elegant design, well coded bootstrap base theme provider. Our all themes documentation is available here."
+title = "Welcome to Themefisher Docs"
+
+[call_to_action]
+enable = true
+title = "Could not find what you were looking for?"
+content = "If you don’t find the answer to your issue at our guide and documentation, open a support ticket. Our support team will be with you as soon as possible to solve your problem."
+image = "images/cta-illustration.jpg"
+[call_to_action.button]
+enable = true
+label = "Start a conversation now!"
+
+[navigation_button_bordered]
+enable = true
+label = "submit ticket"
+
+[navigation_button_solid]
+enable = true
+label = "guide"
+link = "guide"
+
+[[plugins.css]]
+link = "https://fonts.googleapis.com/css2?family=Poppins:wght@400;700;900&display=swap"
+
+[[plugins.js]]
+link = "plugins/jQuery/jquery.min.js"
+[[plugins.js]]
+link = "plugins/bootstrap/bootstrap.min.js"
+[[plugins.js]]
+link = "plugins/masonry/masonry.min.js"
+[[plugins.js]]
+link = "plugins/featherlight/featherlight.min.js"
+[[plugins.js]]
+link = "plugins/clipboard/clipboard.min.js"
+[[plugins.js]]
+link = "plugins/search/auto-complete.js"
+[[plugins.js]]
+link = "plugins/scrollmenu/scrollmenu.min.js"
+[[plugins.js]]
+link = "plugins/search/search.js"
+[[plugins.js]]
+link = "plugins/search/lunr.min.js"
+[[plugins.js]]
+link = "plugins/search/fuse.min.js"
+[[plugins.js]]
+link = "plugins/search/mark.js"
+[[plugins.js]]
+link = "plugins/search/search-page.js"
+[[plugins.js]]
+link = "plugins/turbolinks/turbolinks.js"
+
+[preloader]
+enable = false
+preloader = ""
+
+[[params.social]]
+icon = "ti-facebook"
+link = "https://facebook.com/themefisher"
+title = "facebook"
+[[params.social]]
+icon = "ti-twitter-alt"
+link = "https://twitter.com/themefisher"
+title = "twitter"
+[[params.social]]
+icon = "ti-github"
+link = "https://github.com/themefisher"
+title = "github"

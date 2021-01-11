@@ -1,0 +1,62 @@
+{
+  "name": "@themefisher/docs",
+  "version": "0.0.0",
+  "description": "Documentation site for themefisher.com",
+  "homepage": "https://github.com/themefisher/themefisher-docs#readme",
+  "license": "UNLICENSED",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/themefisher/themefisher-docs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/themefisher/themefisher-docs/issues"
+  },
+  "scripts": {
+    "serve": "hugo server --disableFastRender --i18n-warnings --navigateToChanged  --templateMetrics --templateMetricsHints --verbose --verboseLog --path-warnings --buildDrafts --buildExpired --buildFuture --watch --enableGitInfo --forceSyncStatic --log true --logFile hugo.log --verbose",
+    "hugo": "hugo --i18n-warnings --templateMetrics --templateMetricsHints --verbose --verboseLog --path-warnings --enableGitInfo --log true --logFile hugo.log --verbose",
+    "hugo-update": "hugo mod get -u ./... && hugo mod tidy"
+  },
+  "keywords": [
+    "hugo",
+    "hugo-site",
+    "hugo-theme",
+    "hugo-documentation"
+  ],
+  "author": {
+    "name": "Mehedi Sharif Titas",
+    "web": "https://themefisher.com"
+  },
+  "maintainers": [
+    {
+      "name": "Somrat Sorkar",
+      "web": "https://somrat.netlify.app"
+    },
+    {
+      "name": "Patrick Kollitsch",
+      "email": "patrick@davids-neighbour.com",
+      "web": "https://davids-neighbour.com"
+    }
+  ],
+  "devDependencies": {
+    "@dnb-hugo/browserslist-config-dnb": "github:dnb-hugo/browserslist-config-dnb",
+    "@dnb-hugo/remark-preset-lint-dnb": "github:dnb-hugo/remark-preset-lint-dnb",
+    "@dnb-hugo/stylelint-config-dnb": "github:dnb-hugo/stylelint-config-dnb",
+    "@fullhuman/postcss-purgecss": "3.1.3",
+    "autoprefixer": "10.1.0",
+    "cross-env": "7.0.3",
+    "cssnano": "4.1.10",
+    "pixrem": "5.0.0",
+    "postcss": "8.2.2",
+    "postcss-cli": "^8.3.1",
+    "precss": "4.0.0",
+    "stylelint": "13.8.0",
+    "stylelint-config-sass-guidelines": "7.1.0"
+  },
+  "browserslist": [
+    "extends @dnb-hugo/browserslist-config-dnb"
+  ],
+  "stylelint": {
+    "extends": "@dnb-hugo/stylelint-config-dnb"
+  },
+  "private": true
+}
