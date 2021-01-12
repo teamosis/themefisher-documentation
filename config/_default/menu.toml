@@ -10,14 +10,14 @@ weight = 1
 
 
 # social
-[[params.social]]
+[[social]]
 name = "ti-facebook"
 url = "https://facebook.com/themefisher"
 
-[[params.social]]
+[[social]]
 name = "ti-twitter-alt"
 url = "https://twitter.com/themefisher"
 
-[[params.social]]
+[[social]]
 name = "ti-github"
 url = "https://github.com/themefisher"
