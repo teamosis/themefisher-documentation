@@ -1,6 +1,6 @@
 module github.com/themefisher/documentation
 
-go 1.5
+go 1.15
 
 require (
 	github.com/dnb-hugo/components/functions v1.0.8 // indirect
