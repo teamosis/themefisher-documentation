@@ -7,3 +7,17 @@ weight = 2
 name = "Contact"
 url = "https://themefisher.com/contact"
 weight = 1
+
+
+# social
+[[params.social]]
+name = "ti-facebook"
+url = "https://facebook.com/themefisher"
+
+[[params.social]]
+name = "ti-twitter-alt"
+url = "https://twitter.com/themefisher"
+
+[[params.social]]
+name = "ti-github"
+url = "https://github.com/themefisher"
