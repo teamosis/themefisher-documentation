@@ -1,11 +1,12 @@
 ---
-title: Counter
-weight: 7
+title: Timer
+weight: 6
 draft: false
 ---
-We have used a counter , you can change the value from scripts,js as given below.
+We have used synotimer for countdown. change the time and days from scripts.js
 
 ```js
+// Count Down JS
  $('#simple-timer').syotimer({
     year: 2020,
     month: 5,
