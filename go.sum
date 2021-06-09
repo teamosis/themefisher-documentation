@@ -9,8 +9,6 @@ github.com/dnb-hugo/libraries/popper.js v1.2.0 h1:vMq5jwR7KvSgZrLuAzWWUM5KB1lVFQ
 github.com/dnb-hugo/libraries/popper.js v1.2.0/go.mod h1:zkFxlsMAbh2U2dUtRm4wU8841Sp8nlkqrgNQPKBntTY=
 github.com/popperjs/popper-core v2.9.2+incompatible h1:79aegxWU0Efzru0yRC1PViXx/lutzrKZdzGcvge/7SI=
 github.com/popperjs/popper-core v2.9.2+incompatible/go.mod h1:rrRYxxxrr6Y+9S8V9ttEFhsPN5sFPapL1QOzxjoDz0o=
-github.com/themefisher/core-docs v1.0.37 h1:kUOh1p91LD2ZGvx03qtXCTSAQyxtTvA6iKacUD1qpEE=
-github.com/themefisher/core-docs v1.0.37/go.mod h1:HcScg8Iakkk+Rb5ozbd1F/u+Z723A8jQt+FfYhsIALY=
 github.com/themefisher/core-docs v1.0.38 h1:sSue6Lbo80p7LpyIgRIjSNWa/74w9Y5I5jkMkdFPvx8=
 github.com/themefisher/core-docs v1.0.38/go.mod h1:HcScg8Iakkk+Rb5ozbd1F/u+Z723A8jQt+FfYhsIALY=
 github.com/twbs/bootstrap v5.0.1+incompatible h1:XW1ZMrcg2ZTTQFKtE/i5HUagYsAao/hqfN30dJeBpVk=
