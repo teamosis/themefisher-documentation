@@ -4,4 +4,4 @@ weight: 4
 draft: false
 ---
 
-{{< contentblock "fonts" >}}
+{{< contentblock "colors" >}}
