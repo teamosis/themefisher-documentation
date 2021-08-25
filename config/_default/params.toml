@@ -8,6 +8,8 @@ logo_mobile_width = "100px"
 # meta description
 author = "Themefisher"
 description = "Documentation for the installation and configuration of our themes."
+# google site varification
+google_verification = "oXVKxXr5YPxe5AxcPP0ZLV0uaaPeST4ycMYEDiepODY"
 topic_title = "Theme Documentations"
 premium_badge = true
 search = true
