@@ -29,7 +29,7 @@ All notable changes to this project will be documented in this file. See [standa
 
 ### Chore
 
-* move from dnb-hugo to dnb-org organisation ([2f57135](https://github.com/themefisher/themefisher-docs/commit/2f5713583fffeb12d40db5a87943b9db3f5e9834))
+* move from dnb-hugo to davidsneighbour organisation ([2f57135](https://github.com/themefisher/themefisher-docs/commit/2f5713583fffeb12d40db5a87943b9db3f5e9834))
 
 ### 1.0.4 (2021-05-26)
 
