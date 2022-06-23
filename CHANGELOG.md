@@ -26,18 +26,15 @@ All notable changes to this project will be documented in this file. See [standa
 
 ### [1.0.5](https://github.com/themefisher/themefisher-docs/compare/v1.0.4...v1.0.5) (2021-07-13)
 
-
 ### Chore
 
 * move from dnb-hugo to davidsneighbour organisation ([2f57135](https://github.com/themefisher/themefisher-docs/commit/2f5713583fffeb12d40db5a87943b9db3f5e9834))
 
 ### 1.0.4 (2021-05-26)
 
-
 ### Bug Fixes
 
 * add executable flags on bin files ([14b5d67](https://github.com/themefisher/themefisher-docs/commit/14b5d6799960630e9254dc414bb6a20c4baf6016))
-
 
 ### Chore
 
