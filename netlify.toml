@@ -3,9 +3,9 @@ publish = "public"
 command = "bin/netlify.sh"
 
 [build.environment]
-HUGO_VERSION = "0.87.0"
+HUGO_VERSION = "0.90.0"
 HUGO_BASEURL = "/"
 HUGO_ENV = "production"
-NODE_VERSION = "14.14.0"
-NPM_VERSION = "6.14.11"
-GO_VERSION = "1.15"
+NODE_VERSION = "16.15.1"
+NPM_VERSION = "8.11.0"
+GO_VERSION = "1.18"
