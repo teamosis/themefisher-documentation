@@ -5,7 +5,7 @@ _build:
   publishResources: false
 ---
 
-Our contact form works with [formspree](https://formspree.io/). Go to this site, and create an account by click on signup button and do some basic stuff. 
+Our contact form works with [formspree](https://formspree.io/). Go to this site, and create an account by click on signup button and do some basic stuff.
 
 Here is the html code where you need to place your form action to activate the form. Your form action will look like this `https://formspree.io/your.name@email.com/`.
 

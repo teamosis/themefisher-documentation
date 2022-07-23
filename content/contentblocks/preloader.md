@@ -10,7 +10,7 @@ You can change pre-loader of template form preloader section(which is located to
 
 Code have been used for preloader is
 
-#### HTML Code:
+#### HTML Code
 
 ```html
 <!– preloader –>
