@@ -5,9 +5,9 @@ _build:
   publishResources: false
 ---
 
-`font-family` name is defined in the `assets/scss/variables.scss` files. If you want to change the font then change the `font-family` form here. And give your font link to the `assets/scss/typography.scss` files or in html head tag.
+`font-family` name is defined in the `source/scss/variables.scss` files. If you want to change the font then change the `font-family` form here. And give your font link to the `source/scss/typography.scss` files or in html head tag.
 
-In `typography.scss` files, you can customize the `font-size`, `font-weight`, and `lineheight` of your texts. You can get more `font-face` form [here](https://fonts.google.com/).
+In `typography.scss` files, you can customize the `font-size`, `font-weight`, and `line-height` of your texts. You can get more `font-face` form [here](https://fonts.google.com/).
 
 ```scss
 // font links from typography.scss file
