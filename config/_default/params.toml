@@ -15,7 +15,7 @@ premium_badge = true
 search = true
 preloader = true
 feedback_action = "https://formspree.io/mehedi@themefisher.com"
-edit_page_url = "https://github.com/themefisher/documentation/edit/master/content/"
+edit_page_url = "https://github.com/teamosis/themefisher-documentation/edit/main/content/"
 copyright = "Copyright &copy; 2020 [Themefisher](https://themefisher.com/) Docs build with [Godocs Theme](https://gethugothemes.com/products/godocs-hugo-documentation-theme/)"
 
 # custom script

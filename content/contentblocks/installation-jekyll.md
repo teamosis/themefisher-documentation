@@ -13,7 +13,7 @@ First of all, you need to install Jekyll on your PC. If you don't know how to in
 
 To run this template on your localhost, run this following command:
 
-```bash
+```
 bundle exec jekyll server
 ```
 
