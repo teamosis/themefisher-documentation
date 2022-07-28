@@ -2,3 +2,4 @@ baseURL = "https://docs.themefisher.com/"
 languageName = "En"
 title = "Documentation Website for Themefisher"
 enableGitInfo = true
+googleAnalytics = 'G-9FQS8NRWP5'
