@@ -5,6 +5,9 @@ logo_desktop_width = "250px"
 logo_mobile = "images/logo-mobile.png"
 logo_mobile_width = "100px"
 
+# google tag manager, see https://developers.google.com/tag-manager/
+google_tag_manager = "GTM-PR9397W" # example: G-XXXXXXXXXX
+
 # meta description
 author = "Themefisher"
 description = "Documentation for the installation and configuration of our themes."
@@ -16,7 +19,7 @@ search = true
 preloader = true
 feedback_action = "https://formsubmit.co/themefisher@themefisher.thrivedesk.email"
 edit_page_url = "https://github.com/teamosis/themefisher-documentation/edit/main/content/"
-copyright = "Copyright &copy; 2020 [Themefisher](https://themefisher.com/) Docs build with [Godocs Theme](https://gethugothemes.com/products/godocs)"
+copyright = "Copyright &copy; 2022 [Themefisher](https://themefisher.com/) Docs build with [Godocs Theme](https://gethugothemes.com/products/godocs)"
 
 # custom script
 custom_script = "<script>!function(t,e,n){function s(){const t=e.getElementsByTagName('script')[0],n=e.createElement('script');n.type='text/javascript',n.async=!0,n.src='https://assistant.thrivedesk.io/bootloader.js?'+Date.now(),t.parentNode.insertBefore(n,t)}if(t.Assistant=n=function(e,n,s){t.Assistant.readyQueue.push({method:e,options:n,data:s})},n.readyQueue=[],'complete'===e.readyState)return s();t.attachEvent?t.attachEvent('onload',s):t.addEventListener('load',s,!1)}(window,document,window.Assistant||function(){}),window.Assistant('init','941671dc-0089-4bb7-8b73-0b3c0d636839');</script>"
