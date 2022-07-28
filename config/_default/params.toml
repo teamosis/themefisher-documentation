@@ -6,7 +6,7 @@ logo_mobile = "images/logo-mobile.png"
 logo_mobile_width = "100px"
 
 # google tag manager, see https://developers.google.com/tag-manager/
-google_tag_manager = "GTM-PR9397W" # example: G-XXXXXXXXXX
+google_tag_manager = "GTM-T2JJTFM" # example: G-XXXXXXXXXX
 
 # meta description
 author = "Themefisher"
