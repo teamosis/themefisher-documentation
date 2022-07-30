@@ -3,9 +3,6 @@ title: 'Contact form'
 weight: 13
 draft: false
 ---
-Bingo has a `php` file for working contact form. You find it named `sendmail.php` on root directory of template. Customize the `.php` file in any text editor.
+Contact form works with [formspree](https://formspree.io/) . Go to this site, and create an account by click on signup button. Then create your contact form action, it will looks like this "https://formspree.io/your.name@email.com/". Now verify your email address by click varify button in the mail you got in your inbox. When someone sent you the first email from this contact form, you will get an email in your inbox, it will ask to activate the form. Click on this button to activate your form. Now it’s done. You will get every email that someone sends you via this contact form.
 
-1\. open file in any text editor. find `$email_to` variable in the file.  
-
-
-2\. Change the mail as you want from the file.
+Open contact.html page in a text-editor, then give your form action in form tag, and add `method = "Post"` also. then it will work perfectly 
