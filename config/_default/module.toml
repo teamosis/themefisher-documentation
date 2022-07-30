@@ -4,4 +4,4 @@ disabled = false
 
 [[imports]]
 path = "github.com/davidsneighbour/hugo-netlification"
-disabled = false
+disabled = true
