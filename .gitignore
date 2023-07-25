@@ -1,5 +1,12 @@
+# themes
+themes
+
 # GitHubs @dependabot will take care of versioning, using static versions
-/package-lock.json
+package-lock.json
+yarn.lock
+.hugo_build.lock
+go.sum
+assets/jsconfig.json
 
 # dev tools
 /bin/replacements.sh
@@ -47,6 +54,7 @@ hugo.linux
 
 # Icon must end with two \r
 Icon
+.sum
 
 
 # Thumbnails
@@ -138,6 +146,7 @@ typings/
 
 # Yarn Integrity file
 .yarn-integrity
+.lock
 
 # dotenv environment variables file
 .env
