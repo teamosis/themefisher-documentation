@@ -10,6 +10,13 @@ _build:
 
 You need to fulfill some prerequisites to configure your machine, before starting the development process.
 
+{{< notice note >}}
+If you’re using **macOS**, then [Homebrew](https://docs.brew.sh/Installation) is the easiest way to install the prerequisites. Check out [this guide](https://mac.install.guide/homebrew/index.html) to install Homebrew on your machine.
+{{< /notice >}}
+
+{{< notice warning >}}
+{{< /notice >}}
+
 ### Install Nodejs
 
 Install Nodejs with the following command on your **Terminal** according to your operating system if you haven't yet.

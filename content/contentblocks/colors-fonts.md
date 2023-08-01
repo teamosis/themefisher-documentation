@@ -53,7 +53,7 @@ To customize the font family and font size of your website, follow the steps bel
 
 4. Copy the **bold part** of the URL for the selected font.
 
-   ![google-fonts](/images/theme-settings/google-fonts.png)
+   ![google-fonts](/images/google-fonts.png)
 
 5. Paste the copied URL fragment into the `primary` field within the `font_family` section. This will change the font used for the primary text on your website.
 
