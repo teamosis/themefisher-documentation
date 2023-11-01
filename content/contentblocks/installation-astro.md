@@ -80,7 +80,7 @@ Go to the official site to Download and Install [Nodejs](https://nodejs.org/en/d
     npm run dev
     ```
 
-3. Now, you get a generated URL and open it in your browser. The default URL looks like this [localhost:3000](http://localhost:3000/).
+3. Now, you get a generated URL and open it in your browser. The default URL looks like this [localhost:4321](http://localhost:4321/)
 
 ---
 
