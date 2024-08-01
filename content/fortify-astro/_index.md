@@ -1,5 +1,5 @@
 ---
-title: "Logbook Astro"
+title: "Fortify Astro"
 premium: true
 date: 2024-07-31T11:02:05+06:00
 # type don't remove or customize
