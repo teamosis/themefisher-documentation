@@ -1,7 +1,7 @@
 ---
 title: "Mobit Astro"
 premium: true
-date: 2024-11-26T11:02:05+06:00
+date: 2024-11-25T11:02:05+06:00
 # type don't remove or customize
 type: "docs"
 ---
