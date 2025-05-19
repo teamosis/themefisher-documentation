@@ -1,6 +1,6 @@
 ---
 title: Content Management
-weight: 
+weight: 7
 draft: false
 ---
 
