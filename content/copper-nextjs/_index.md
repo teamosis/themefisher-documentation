@@ -1,7 +1,7 @@
 ---
 title: "Copper NextJS"
 premium: true
-date: 2025-06-30T11:02:00+06:00
+date: 2025-06-30T11:02:01+06:00
 # type don't remove or customize
 type: "docs"
 ---
