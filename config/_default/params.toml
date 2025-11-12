@@ -43,7 +43,7 @@ attribute = "target=_blank"
 [navigation_button_bordered]
 enable = true
 label = "Contact Us"
-link = "https://gethugothemes.com/dashboard/tickets"
+link = "https://themefisher.com/dashboard/tickets"
 attribute = ""
 
 [navigation_button_solid]
