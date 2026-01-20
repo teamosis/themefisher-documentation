@@ -1,8 +1,8 @@
 ---
-_build:
-  render: never
-  list: never
-  publishResources: false
+build:
+   render: never
+   list: never
+   publishResources: false
 ---
 
 ## How to Update the Theme

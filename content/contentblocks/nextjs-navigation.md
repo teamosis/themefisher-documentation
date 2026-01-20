@@ -1,5 +1,5 @@
 ---
-_build:
+build:
   render: never
   list: never
   publishResources: false
@@ -46,7 +46,6 @@ Main navigation is a list of links to other pages. It is rendered in the header 
 ```
 
 * For **dropdown menu**, you need to add another attribute called `hasChildren = true`. And remove `URL`. Then repeat the `"main"` loop, and put the `parent =` attribute in the dropdown menu item. Parent name should be the same as the dropdown item name. Also, update `name` and `URL` attributes.
-
 
 ## Footer navigation
 

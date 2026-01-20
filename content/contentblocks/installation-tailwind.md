@@ -1,12 +1,12 @@
 ---
-_build:
+build:
   render: never
   list: never
   publishResources: false
 ---
 
 
-## Prerequisites 
+## Prerequisites
 
 You need to fulfill some prerequisites to configure your machine, before starting the development process.
 
@@ -64,14 +64,13 @@ node -v
 
 Go to the official site to Download and Install [Nodejs](https://nodejs.org/en/download/).
 
-
 ---
 
 ## Run Your Project Locally
 
 To run the theme in your local environment, follow the instructions below:
 
-### Get your theme 
+### Get your theme
 
 Unzip the downloaded file, and you will find the main theme folder inside the themes directory, which you will be working with. Folder structure example,
 
@@ -87,8 +86,7 @@ Unzip the downloaded file, and you will find the main theme folder inside the th
 └── 📄 license.html
 ```
 
-Open the Main theme in your Code editor like VSCode. 
-
+Open the Main theme in your Code editor like VSCode.
 
 1. Open vscode terminal (ctrl+`) and run the following command to install all dependencies.
 

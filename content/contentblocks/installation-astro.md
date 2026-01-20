@@ -1,12 +1,12 @@
 ---
-_build:
+build:
   render: never
   list: never
   publishResources: false
 ---
 
 
-## Prerequisites 
+## Prerequisites
 
 You need to fulfill some prerequisites to configure your machine, before starting the development process.
 
@@ -64,9 +64,7 @@ node -v
 
 Go to the official site to Download and Install [Nodejs](https://nodejs.org/en/download/).
 
-
 ## Run Your Project Locally
-
 
 1. Open vscode terminal (ctrl+`) and run the following command to install all dependencies.
 
