@@ -31,4 +31,4 @@ To create a new blog post, you can duplicate an existing blog post and update th
 
 If you want to use a CMS to manage your website content, you can check out this post to find the most popular CMS available for Nextjs [Best CMS for Nextjs website](https://themefisher.com/best-cms-for-nextjs)
 
-If you need help for CMS integration, you can contact us for [Custom Service](https://themefisher.com/custom-development).
+If you need help for CMS integration, you can contact us for [Custom Service](https://zeon.studio/?ref=themefisher.com).
