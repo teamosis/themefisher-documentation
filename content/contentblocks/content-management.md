@@ -31,4 +31,4 @@ To create a new blog post, you can duplicate an existing blog post and update th
 
 If you want to use a CMS to manage your content, you can see the [Official Astro Documentation](https://docs.astro.build/en/guides/cms/) for more information.
 
-Or you can take our [Custom Service](https://themefisher.com/custom-development) for CMS integration support.
+Or you can take our [Custom Service](https://zeon.studio/?ref=themefisher.com) for CMS integration support.
